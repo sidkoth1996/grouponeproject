@@ -1,0 +1,25 @@
+{
+  "name": "leftovers",
+  "version": "1.0.0",
+  "description": "Connect businesses with a surplus of food with those in need of food",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidkoth1996/leftovers.git"
+  },
+  "author": "Siddharth Kothari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidkoth1996/leftovers/issues"
+  },
+  "homepage": "https://github.com/sidkoth1996/leftovers#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express.js": "^1.0.0",
+    "mongoose": "^5.7.5"
+  }
+}
